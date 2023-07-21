@@ -1,0 +1,10 @@
+sudo chmod +x testrun2.py
+
+rosrun beginner_turtorials testrun2.py 0.2 0 3
+
+cd src/beginner_turtorials/scripts/
+
+rosrun beginner_turtorials testrun.py 0.2 0.1
+
+source devel/setup.bash
+
